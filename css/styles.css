@@ -69,3 +69,11 @@ main > .tagline {
 	width: 2.65rem;
 	height: 2.65rem;
 }
+img{
+	margin: 20px auto;
+	max-width: 100%;
+	height: auto;
+	width: 150px;
+	border-radius: 50%;
+	border: 2px solid #5162d0;
+}
